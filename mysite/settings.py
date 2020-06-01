@@ -25,7 +25,7 @@ SECRET_KEY = '#xfwrr+zgc#l=zg^qru8_y!xw@su#-39+3v2q!-n9s_8j8#%$u'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['bambow.pythonanywhere.com', '127.0.0.1']
 
 
 # Application definition
